@@ -1,0 +1,19 @@
+.Counter {
+  background-color: #f3f3f3;
+  max-width: 20rem;
+  margin: 20px auto;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+}
+.Counter button {
+  display: inline-block;
+  border: none;
+  margin: 1rem 0.5rem;
+  padding: 1rem;
+  cursor: pointer;
+  background-color: #5aacf4;
+}
+.Counter button:hover {
+  background-color: #84c1f5;
+}
